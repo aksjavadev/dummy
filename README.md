@@ -22,7 +22,11 @@ Sample output when run with 4 files
 =====================================
 
 Please input number of files
+
 4
+
 FIle names read will be as follows file-1.txt, file-2.txt...so on
+
 Total time taken for serial write -- 4940 ms
+
 Total time taken for parallel write -- 991 ms
