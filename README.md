@@ -6,7 +6,7 @@ You should be ready with folder structure as follows --
 
 Files to be read should be kept under -- C:\read-write-problem\test-github\read <br>
 Files written serially will be generated under -- C:\read-write-problem\test-github\serial-write <br>
-Files written parallely will be generated under --C:\read-write-problem\test-github\serial-write <br>
+Files written parallely will be generated under --C:\read-write-problem\test-github\parallel-write <br>
 
 Files to be read should be named as file-1.txt, file-2.txt, file-3.txt and so on in incrememntal order
 
